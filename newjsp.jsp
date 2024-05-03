@@ -1,8 +1,3 @@
-<%-- 
-    Document   : newjsp
-    Created on : Mar 26, 2024, 1:47:21 PM
-    Author     : rishi
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.sql.*"%>
 <!DOCTYPE html>
